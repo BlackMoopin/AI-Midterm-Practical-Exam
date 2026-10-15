@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "AINGAMES Midterm Practical Exam.slnx"
+    "dotnet.defaultSolution": "AI Midterm Practical Exam.slnx"
 }
